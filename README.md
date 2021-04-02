@@ -1,5 +1,5 @@
-'MumboJumpo' is a simple game like Mario created by Robert Gruca
- Game Engine: [Unity](https://unity3d.com/)
+<p>'MumboJumpo' is a simple game like Mario created by Robert Gruca</p>
+<p> Game Engine: [Unity](https://unity3d.com/)</p>
 <h1><b>Screenshots<b></h1>
 <p align="center"> 
   
