@@ -1,6 +1,6 @@
 'MumboJumpo' is a simple game like Mario created by Robert Gruca
 
-<b>Screenshots<b>
+<h1><b>Screenshots<b></h1>
 ![1](https://user-images.githubusercontent.com/80978853/113435670-9b761b00-93e3-11eb-9916-21a94637c62d.PNG)
 
 ![2](https://user-images.githubusercontent.com/80978853/113435683-a03acf00-93e3-11eb-903a-9fb5afd83c3f.PNG)
